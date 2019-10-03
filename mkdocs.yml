@@ -1,0 +1,7 @@
+site_name: PHN Exchange - Documentation
+
+theme: readthedocs
+
+markdown_extensions:
+    - toc:
+        permalink: "#"

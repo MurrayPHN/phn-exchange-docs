@@ -1,2 +1,7 @@
 # phn-exchange-docs
-Documentation for phn-exchange
+
+## Quick Start
+
+- Install Python latest https://www.python.org/
+- `pip install mkdocs`
+- `mkdocs serve`
