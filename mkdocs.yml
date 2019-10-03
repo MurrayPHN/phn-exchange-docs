@@ -1,6 +1,8 @@
 site_name: PHN Exchange - Documentation
 
 theme: readthedocs
+extra_css: 
+    - css/extra.css
 
 nav:
 - Home: 'index.md'
