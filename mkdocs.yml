@@ -1,4 +1,4 @@
-site_name: PHN Exchange - Documentation
+site_name: PHN Exchange Help Centre
 
 theme: readthedocs
 extra_css: 
@@ -6,6 +6,7 @@ extra_css:
 
 nav:
 - Home: 'index.md'
+- Overview: 
 - Practices:
     - 'Viewing your GP Data Report' : 'practices/gp-data-report.md'
     - 'Viewing your GP License Agreements' : 'practices/gp-license-agreements.md'
