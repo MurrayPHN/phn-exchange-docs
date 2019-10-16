@@ -27,6 +27,8 @@ nav:
     - Population Health: 'populationhealth.md'
     - Priority Areas: 'priority.md'
     - Admin: 'admin.md'
+- User guides:
+    - PHN Staff: 'practice-staff.md'
 
 markdown_extensions:
     - toc:
