@@ -15,6 +15,7 @@ Each Practice Coordinator (the PHN staff member interacting with general practic
 - PATCAT
 - PenCS Uploads dashboard
 - POLAR Explorer
+- Primary Sense
 - Armchair medical
 - Murray Health Pathways 
 - Murray PHN Learning Management System
