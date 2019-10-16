@@ -6,13 +6,27 @@ extra_css:
 
 nav:
 - Home: 'index.md'
-- Overview: 'overview.md'
+- General:
+    - Overview: 'overview.md'
+    - Minimum System Requirements: 'minimum.md'
+    - Regulations: 'regulations.md'
+    - Reports: 'reports.md'
+    - Support: 'support.md'
+    - Security: 'security.md'
+    - Terms and Conditions: 'terms.md'
 - Practices:
-    - 'Viewing your GP Data Report' : 'practices/gp-data-report.md'
-    - 'Viewing your GP License Agreements' : 'practices/gp-license-agreements.md'
-- PHN Admins:
-    - 'Adding Practice members' : 'phn-admin/practice-members.md'
-    - 'Adding PHN regions': 'phn-admin/phn-regions.md'
+    - Engagement with Practices: 'engagement.md'
+    - GP Data: 'gpdata.md'
+    - PIP QI: 'pipqi.md'
+    - EULA: 'eula.md'
+    - Data Extraction: 'extraction.md'
+- Componants: 
+    - ABS Atlas: 'atlas.md'
+    - Customer Relationship Management: 'crm.md'
+    - Learning Management System: 'lms.md'
+    - Population Health: 'populationhealth.md'
+    - Priority Areas: 'priority.md'
+    - Admin: 'admin.md'
 
 markdown_extensions:
     - toc:
