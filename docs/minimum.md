@@ -17,9 +17,9 @@ Each Practice Coordinator (the PHN staff member interacting with general practic
 - POLAR Explorer
 - Primary Sense
 - Armchair medical
-- Murray Health Pathways 
-- Murray PHN Learning Management System
-- Murray PHN Stream in-house HOW TO videos
+- Health Pathways 
+- PHN Learning Management System
+- PHN Stream in-house HOW TO videos
 
 ## Minimum proficiencies and knowledge base
 
