@@ -7,7 +7,7 @@ Most web enabled devices are able to access the PHN Exchange. It is recommended 
 
 ## Required systems access 
 
-Other systems used in conjunction with the PHN exchange by PHNs are listed below
+Other systems used in conjunction with the PHN Exchange by PHNs are listed below
 Each Practice Coordinator (the PHN staff member interacting with general practice) should check with their manager as to which systems their PHN uses and which they need login access to
 
 - PHN Exchange – Administration status - GP data report
