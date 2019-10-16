@@ -1,4 +1,4 @@
-# PHN Exchange Overview {#overview}
+# PHN Exchange Overview
 
 PHN Exchange is an innovative population health information platform that’s designed to support, influence and improve health outcomes.  
  

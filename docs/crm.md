@@ -1,4 +1,4 @@
-# Customer Relationship Management {#crm}
+# Customer Relationship Management
 
 Microsoft Dynamics 365 Client relationship Management system is a versatile data-based product which Murray PHN has configured to meet many of the PHNs business needs. Other PHNs are now adopting this ‘PHN in a box’.
 

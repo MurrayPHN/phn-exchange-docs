@@ -1,4 +1,4 @@
-# Resources {#resources}
+# Resources
 All links in this section of the PHN Exchange will take you to external publicly available data sources. Many of these sources have been used in the compiling of the Hot spotting and mapping data for your PHN. If you come across other external sites you believe would be useful to be included please inform your manager. [CLICK HERE](https://www.phnexchange.com.au/resources.php) to review the current resources page.
 
 ## Training Resources

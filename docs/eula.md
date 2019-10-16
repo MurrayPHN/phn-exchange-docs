@@ -1,4 +1,4 @@
-# EULA capture {#eula}
+# EULA capture
 The PHN exchange has an incorporated document acceptance system. 
 The PenCS EULA published by Murray PHN (July 2019) is shown in Appendix E
 It allows each PHN to manage their individual documents (EULA T&A Consent).

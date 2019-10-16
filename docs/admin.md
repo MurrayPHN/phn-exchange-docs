@@ -1,4 +1,4 @@
-# PHN Exchange Administration {#admin}
+# PHN Exchange Administration
 
 PHN staff engaging with practices will have administration access to the PHN Exchange. Contact your internal PHN Exchange team to organise your access.
 

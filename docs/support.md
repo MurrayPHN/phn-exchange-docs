@@ -1,3 +1,3 @@
-# Support {#support}
+# Support
 
 It is your responsibility to understand where you can go for support in your role. There are many resources available including the [Learning Management System](https://murrayphn.myjoomlalms.com/) and [Stream](https://web.microsoftstream.com/browse?view=channel) – Murray PHNs internal catalogue of How-to Videos https://web.microsoftstream.com/browse?view=channel. Our greatest resource though is our staff. No question is a wrong question. Please ask if you are unsure. Your line manager, your regional coordinator, Population Health Systems team and your more experienced peers are all available to you.

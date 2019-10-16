@@ -1,4 +1,4 @@
-# PHN Exchange Cyber Security and Data Governance {#security}
+# PHN Exchange Cyber Security and Data Governance
 
 ## User Access
 All data is access controlled through user accounts. Each account is associated with specific security groups which prevent and allow access to certain data and functionality.

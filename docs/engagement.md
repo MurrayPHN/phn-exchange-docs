@@ -1,4 +1,4 @@
-# Using the PHN Exchange for practice engagement {#engagement}
+# Using the PHN Exchange for practice engagement
 
 The template should be used to prepare for engagement with GP practices by PHN staff who manage, engage or oversee the GP–PHN relationships.
 The template has four sections: 

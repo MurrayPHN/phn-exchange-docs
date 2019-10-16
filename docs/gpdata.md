@@ -6,7 +6,7 @@ When practices login to their GP Data report, they will be requested to confirm 
 ![GP profile form] (gp-profile.png)
 This information should be regarded as the one source of truth, and it is this information that should be transcribed into your PHN’s client relationship management system. A customised verserion of Dynamics 365 customer relationship management systems is recommended to be used in conjunction with teh PHN Exchange.
 
-## GP Data report {#gpdata}
+## GP Data report
 The capability of automated reporting at an incidence level is unique to GP Data Report and can interface with any of the multiple software programs currently used in the primary care sector. 
 The GP Data Report is tailored for each practice and displays practice trends and regional and catchment-wide comparisons, so GPs can make informed decisions about their patients, workforce and practice. 
 The graphical data monitors areas such as demographics, disease prevalence, immunisation status, cancer screening rates and activities of patients with chronic disease. This allows practices to identify gaps, improve detection rates, use early interventions and achieve better outcomes.  
