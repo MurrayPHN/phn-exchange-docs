@@ -13,8 +13,8 @@ Originally conceived and developed by Murray PHN for its own use, the inherent p
 For a brief introduction please see this video (1min 16 secs) [CLICK HERE(https://www.youtube.com/watch?v=8t4rDUEc3Jg&feature=youtu.be) or paste the following into your browser search field https://www.youtube.com/watch?v=8t4rDUEc3Jg&feature=youtu.be
 
 # Introduction to this documentation
-This guide is primarily for use by General Practice Business partners.
-Murray PHN’s strategic health priorities reflect the issues and conditions that have the greatest impact on the lives of people living in our communities. They are determined by population health data and aligned to Australian Government health program areas. More importantly, they are areas in which Murray PHN is committed to achieving targeted health improvements across our region.
+This guide is primarily for use by PHN staff who engage with General Practice.
+PHN’s strategic health priorities reflect the issues and conditions that have the greatest impact on the lives of people living in our communities. They are determined by population health data and aligned to Australian Government health program areas. More importantly, they are areas in which your PHN is committed to achieving targeted health improvements.
 Staff supporting and/ or interacting with General Practice are a key enabler for PHNs to improve population health outcomes. Working in a relationship of trust, they form a vital link into the General Practice sector supporting improved data quality and better outcomes for patients/clients of the practice, as well as long term business sustainability of practices. 
 
 
