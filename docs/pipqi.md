@@ -4,6 +4,9 @@ Generally, most data extraction software available on the market today extracts 
 The PHN Exchange and its GP data report automates the recording and much of the reporting required by the Department.
 Now read the information brochure available on Murray PHN’s website [CLICK HERE](https://www.murrayphn.org.au/generalpractice/practice-incentives-program/) or paste the following into your browser search field https://www.murrayphn.org.au/generalpractice/practice-incentives-program/
 
+## Quality Improvement
+For more information, please refer to Brisbane South PHN guide found [here](https://bsphn.org.au/primary-care-support/general-practice-quality-improvement/).
+
 ## PIP QI measures
 The data PHN receives from a practice  - Minimum data set for a practice to comply with PIP QI requirements 
 1.	Proportion of patients with diabetes with a current HbA1c result
