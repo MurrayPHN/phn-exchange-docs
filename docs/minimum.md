@@ -28,6 +28,6 @@ Practice Coordinators should know how to
 - Access the PATCAT / Polar / Primary Sense
 - Access the PHN Exchange GP data report
 - Compare key information to ensure the GP data report is accurate
-- Enable Practice Coordinator support of the Practices in their use of the PHN exchange GP data report
+- Enable Practice Coordinator support of the Practices in their use of the PHN Exchange GP data report
  
 
