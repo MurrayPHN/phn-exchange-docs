@@ -1,8 +1,14 @@
 # Minimum Requirements
 
-## Required system access 
+The PHN Exchange is a fully supported web based system.
+Access to most of the PHN Exchange is open to the community, permissioned login access is required to access restricted data 
 
-System login access required by each Primary Care Consultant (systems listed below are available through Murray HUB)
+Most web enabled devices are able to access the PHN Exchange. It is recommended that the most recent versions of web browsers are used.
+
+## Required systems access 
+
+Other systems used in conjunction with the PHN exchange by PHNs are listed below
+Each Practice Coordinator (the PHN staff member interacting with general practice) should check with their manager as to which systems their PHN uses and which they need login access to
 
 - PHN Exchange – Administration status - GP data report
 - PHN National SharePoint 
@@ -15,11 +21,13 @@ System login access required by each Primary Care Consultant (systems listed bel
 - Murray PHN Stream in-house HOW TO videos
 
 ## Minimum proficiencies and knowledge base
- 
-Primary Care Consultants should know how to 
-- Access the PATCAT
-- Access the GP data report
+
+Practice Coordinators need proficiencies in the following
+
+Practice Coordinators should know how to 
+- Access the PATCAT / Polar / Primary Sense
+- Access the PHN Exchange GP data report
 - Compare key information to ensure the GP data report is accurate
-- Enable PCC support of the Practices in their use of the GP data report
+- Enable Practice Coordinator support of the Practices in their use of the PHN exchange GP data report
  
 
