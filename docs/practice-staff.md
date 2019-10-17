@@ -1,15 +1,16 @@
 # User access (includes PHN general practice staff)
 
 ## Registering on the PHN Exchange
-Go to https://www.phnexchange.com.au/.
-Select your local PHN. (phnexchange will automatically attempt to find your location)
-Click the continue button below to continue to your PHN.
-On the next page in the left menu click "Sign in".
-To Sign in:
-If you have a Microsoft account click "SIGN IN WITH MICROSOFT".
-If you do not have a Microsoft account click the "Register" button at the top of the popup window.
-Enter your details and click register.
-You will now be sent an email to confirm your account, simply check your email inbox to confirm your registration.
+
+- Go to https://www.phnexchange.com.au/.
+- Select your local PHN. (phnexchange will automatically attempt to find your location)
+- Click the continue button below to continue to your PHN.
+- On the next page in the left menu click "Sign in".
+- To Sign in:
+  - If you have a Microsoft account click "SIGN IN WITH MICROSOFT".
+  - If you do not have a Microsoft account click the "Register" button at the top of the popup window.
+- Enter your details and click register.
+- You will now be sent an email to confirm your account, simply check your email inbox to confirm your registration.
 
 ## Re-sending registration email confirmation
 Click "Sign In" on the left menu of your PHN home page.
