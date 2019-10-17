@@ -6,10 +6,12 @@
 - Select your PHN and click continue.
 - On the next page click "Sign in" on the left menu.
 - To Sign in:
-  - If you have a Microsoft account click "SIGN IN WITH MICROSOFT".
-  - If you do not have a Microsoft account click the "Register" button at the top of the popup window.
-- Enter your details and click register.
-- You will now be sent an email to confirm your account, simply check your email inbox to confirm your registration.
+  - For Microsoft accounts click "SIGN IN WITH MICROSOFT".
+  - For Non Microsoft accounts:
+    - Enter your details into the "Sign up with new email" section.
+    - Click "I'm not a robot".
+    - Click "Register".
+    - An email will be sent to you within 2 minutes to confirm your account, please make sure to check your junk inbox.
 
 ## Re-sending registration email confirmation
 
