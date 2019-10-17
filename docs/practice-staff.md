@@ -13,15 +13,17 @@
 - You will now be sent an email to confirm your account, simply check your email inbox to confirm your registration.
 
 ## Re-sending registration email confirmation
-Click "Sign In" on the left menu of your PHN home page.
-Click the "Register" tab at the top of the popup.
-Click "RESEND CONFIRMATION EMAIL" at the bottom left of the register popup.
-Enter your email address and click "Submit"
-After 2 minutes you should receive your confirmation email, please also check your junk inbox. 
+
+- Click "Sign In" on the left menu of your PHN home page.
+- Click the "Register" tab at the top of the popup.
+- Click "RESEND CONFIRMATION EMAIL" at the bottom left of the register popup.
+- Enter your email address and click "Submit"
+- After 2 minutes you should receive your confirmation email, please also check your junk inbox. 
 
 # PHN Admin
 
 ## Practice not able to see "General Practice" section of PHN Exchange after login
+
 The PHN Exchange has two methods of approving people seeing the "General Practice" section on the left navigation menu.
 
 The users email address was found to be connected to an account in the PATCAT database
