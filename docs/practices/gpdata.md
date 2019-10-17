@@ -3,7 +3,7 @@
 ## GP Profile
 The GP profile is a minimum data set about each of the practices your PHN supports. 
 When practices login to their GP Data report, they will be requested to confirm that details held in the PHN Exchange about their practise are correct. The following profile field will appear for each practice as they log into their GP Data report.
-![GP profile form] (gp-profile.png)
+![GP profile form](/img/gp-profile.png)
 This information should be regarded as the one source of truth, and it is this information that should be transcribed into your PHN’s client relationship management system. A customised verserion of Dynamics 365 customer relationship management systems is recommended to be used in conjunction with teh PHN Exchange.
 
 ## GP Data report
@@ -27,4 +27,4 @@ Configuration for the GP data extraction is found within the admin page. It show
 
 The PHN Exchange sends a data base query to the PHN’s GP data and calculates the number of patients for a practice. This number is sent back to the PHN Exchange. When a practice logs into their GP data report, the number is used to generate the graph.
 
-![GP data source details](gp-datasource.png)
+![GP data source details](/img/gp-datasource.png)
