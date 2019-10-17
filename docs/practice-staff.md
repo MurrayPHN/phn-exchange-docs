@@ -3,9 +3,8 @@
 ## Registering on the PHN Exchange
 
 - Go to https://www.phnexchange.com.au/.
-- Select your local PHN. (phnexchange will automatically attempt to find your location)
-- Click the continue button below to continue to your PHN.
-- On the next page in the left menu click "Sign in".
+- Select your PHN and click continue.
+- On the next page click "Sign in" on the left menu.
 - To Sign in:
   - If you have a Microsoft account click "SIGN IN WITH MICROSOFT".
   - If you do not have a Microsoft account click the "Register" button at the top of the popup window.
@@ -14,10 +13,11 @@
 
 ## Re-sending registration email confirmation
 
-- Click "Sign In" on the left menu of your PHN home page.
-- Click the "Register" tab at the top of the popup.
-- Click "RESEND CONFIRMATION EMAIL" at the bottom left of the register popup.
-- Enter your email address and click "Submit"
+- Go to https://www.phnexchange.com.au/.
+- Select your PHN and click continue.
+- On the next page click "Sign in" on the left menu.
+- In the popup menu scroll down and in the bottom right click "RESEND CONFIRMATION EMAIL".
+- Enter your email address, click "I'm not a robot" and click "Send"
 - After 2 minutes you should receive your confirmation email, please also check your junk inbox. 
 
 # PHN Admin
