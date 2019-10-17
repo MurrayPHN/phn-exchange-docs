@@ -36,7 +36,7 @@ If the email address in PATCAT against a practice is the same email address that
 
 To confirm if a practice has the correct email address assigned in PATCAT:
 
-- Login to the patcat portal https://patcat.murrayphn.org.au/ (different for each phn)
+- Login to your PHN PATCAT portal, for Murray PHN it is https://patcat.murrayphn.org.au/
 - In the top right of the page after login click "Practices"
 - Find the relevant practice and check the email address associated with the practice and make sure it is correct.
 - After updating the email address in PATCAT, PHN Exchange should take 1 minute to synchronize the changed PATCAT details
