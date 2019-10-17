@@ -1,14 +1,12 @@
 # PHN Admin
 
-## Practice cannot see "General Practice" button on PHN Exchange after login
+## How to fix Practices not seeing a "GP Hub" button on PHN Exchange after login
 
-PHN Exchange gives members permission to view practice details if they are a Practice Member
-
-Practice Members are either added Automatically or Manually.
+PHN Exchange gives access to the GP Hub to practice staff through either an automatic or manual process.
 
 ### Automatic Process
 
-If the email address in PATCAT against a practice is the same email address that they have registered with, they are automatically assigned as a practice admin.
+If the email address in PATCAT against a practice is the same email address that they have registered with, they are automatically assigned as a practice member.
 
 To confirm if a practice has the correct email address assigned in PATCAT:
 
@@ -18,7 +16,7 @@ To confirm if a practice has the correct email address assigned in PATCAT:
 - After updating the email address in PATCAT, PHN Exchange should take 1 minute to synchronize the changed PATCAT details
 - After PHN Exchange has detected the email change, general practice user using the email address needs to logout and log back in again to now see the "General Practice" section.
 
-## Manual Process
+### Manual Process
 
 - Login to the PHN Exchange
 - Click Admin on the left meny and navigate to your PHN

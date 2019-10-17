@@ -3,6 +3,7 @@ The PHN exchange has an incorporated document acceptance system.
 The PenCS EULA published by Murray PHN (July 2019) is shown in Appendix E
 It allows each PHN to manage their individual documents (EULA T&A Consent).
 Example… when a GP practice logs in to view their GP data report they will be asked to complete some details about their practice and also to accept terms and condition presented to them by their PHN. Below are listed step by step instructions for practices to access their T& A and EULA agreements
+
 1.	Go to https://www.phnexchange.com.au/home.php?phn=205
 2.	From the left side menu under the Account heading select Sign In
 3.	In the popup click "SIGN IN WITH MICROSOFT" or enter your details into the "Sign up with new email" section.
