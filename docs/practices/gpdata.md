@@ -6,7 +6,7 @@ The GP profile is a minimum data set about each of the practices your PHN suppor
 
 When practices login to their GP Data report, they will be requested to confirm that details held in the PHN Exchange about their practise are correct. The following profile field will appear for each practice as they log into their GP Data report.
 
-![GP profile form](/img/gp-profile.png)
+![GP profile form](../../img/gp-profile.png)
 
 This information should be regarded as the one source of truth, and it is this information that should be transcribed into your PHN’s client relationship management system. 
 
