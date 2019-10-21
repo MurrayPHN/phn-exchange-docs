@@ -1,18 +1,21 @@
 # PHN Exchange - Current licensing agreement  
 PHNs using the PHN Exchange under current licensing agreements receive
+
 - Access to the fully hosted and supported web platform www.phnexchange.com.au 
 - Hosted within Australian Territory and all data protected and  is backed up through the Microsoft Azure cloud system  
 - System uptime of 99.9% availability (as per Microsoft Azure hosting) https://azure.microsoft.com/en-au/support/legal/sla/summary/ 
 - One year of access, maintenance and hosting managed by PHN Exchange Developer staff 
 
 # Support and resources
-PHN Exchange staff will assist you to configure and populate data into PHN Exchange, support and resources included in the licensing agreement include  
+PHN Exchange staff will assist you to configure and populate data into PHN Exchange, support and resources included in the licensing agreement include
+
 - Direct telephone support will be provided to key administrators  PHN developers and systems support staff 
 - Short ‘how to’ videos for your administrative staff to configure and manage data inputs into PHN Exchange
 
 # Each PHN governs their own data and information
 For  the components your PHN has licensed, 
-Your nominated staff are provided with administration access for your PHN, this give you total control to  
+Your nominated staff are provided with administration access for your PHN, this give you total control to
+
 - manage the connection of the PHN Exchange to your general practice extracted data base
 - input and manage your own specific data where required
 - manage your licensing agreements (EULAs, data sharing, consent) to relevant external parties 
@@ -20,6 +23,7 @@ Your nominated staff are provided with administration access for your PHN, this 
 # Automated features
 Once your administrator has connected the PHN Exchange to your general practice extracted data base, 
 the PHN Exchange automatically;
+
 - creates individual practice areas within the PHN Exchange
 - populates information about practices in the practice profile
 - configures to generate individual practice reports
