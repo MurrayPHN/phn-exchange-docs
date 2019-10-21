@@ -1,8 +1,8 @@
 # Using the PHN Exchange for practice engagement
+PHN staff who manage, engage or oversee the GP–PHN relationships are referred to as 'practice engagement staff'
+This section should be used by practice engagement staff to prepare for engagement with General Practices
 
-The template should be used to prepare for engagement with General Practices by PHN staff who manage, engage or oversee the GP–PHN relationships.
-
-The template has four sections:
+There are four sections:
 
 1.  General practice details
 2.  Pre-engagement planning – Key characteristics
