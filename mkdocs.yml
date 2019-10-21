@@ -32,6 +32,7 @@ nav:
     - Members: 'user-guides/members.md'
     - Practice Members: 'user-guides/practice-members.md'
     - PHN Admins: 'user-guides/phn-admins.md'
+- Versioning: 'versioning.md'
 
 markdown_extensions:
     - toc:
