@@ -21,10 +21,10 @@ Your nominated staff are provided with administration access for your PHN, this 
 Once your administrator has connected the PHN Exchange to your general practice extracted data base, 
 the PHN Exchange automatically;
 - creates individual practice areas within the PHN Exchange
-- populates information about practices in the praxctice profile
+- populates information about practices in the practice profile
 - configures to generate individual practice reports
 - uses the same login and password as the PATCAT system
-- presents a genera pracice report to each individual practice when they login to the system
+- presents a general practice report to each individual practice when they login to the system
 - only allows a practice to view their own data 
 - automatically aggregates and averages all practices using the PHN Exchange to provide benchmarking
 - automatic PIP QI dashboarding for PHN administrators
