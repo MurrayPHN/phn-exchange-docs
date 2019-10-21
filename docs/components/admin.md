@@ -12,15 +12,15 @@ You can see the individual GP Practice profile and their staff email accounts as
 ![List of general practices](../../img/gp-practices.png)
 
 As an administrator you are able to update the details if you wish. 
-Please remember that the practice will be required to update these details also a when they access their GP data report.
+Please remember that the practice will be required to update these details also when they access their GP data report.
 
 ## Priority areas
-This section allows creation of priority areas for the Hot Spotting and Mapping section of the PHN Exchange. Generally, editing this area should only be completed by the PHNs designated Priority Area administrator.
+This section allows creation of priority areas for the Hot Spotting and Mapping section of the PHN Exchange. Generally, editing this area should only be completed by the PHN's designated Priority Area administrator.
 
 ![Managing PHN priority areas](../../img/priorities.png)
 
 ## Regions
-This section allows creation of Regions within the PHN Exchange. Generally, editing this area should only be completed by the PHNs designated Regions area administrator.
+This section allows creation of Regions within the PHN Exchange. Generally, editing this area should only be completed by the PHN's designated Regions Area administrator.
 
 ![Managing PHN regions](../../img/regions.png)
 
@@ -33,7 +33,7 @@ The acceptance of licenses by Practices is recorded within the PHN Exchange on t
 
 ![Managing PHN licenses](../../img/licenses.png)
 
-To view the license, you should click on the license name – in this example click on PenCS EULA
+To view the license, you should click on the license name – in this example click on PenCS EULA.
 First of all, you should read the guide and the information about the license.
 
 ![Managing PHN licenses](../../img/license.png)
