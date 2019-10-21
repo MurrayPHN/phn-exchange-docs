@@ -4,4 +4,4 @@
 
 The PHN Exchange has a component which allows manual upload of data sets for those practices which currently do not have automatic extraction compatibility. 
 
-Component is currently in development and more information available on request.
+The component is currently in development and more information is available on request.
