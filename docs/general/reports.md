@@ -1,6 +1,6 @@
 # Reports
 
-The Reports sections contain consolidated global reports for your PHN. The screen shot below shows the PHN dashboard and a list of practices which are compliant or non-compliant for the quarter.
+The Reports sections contain consolidated global reports for your PHN. The PIP QI dashboard displays and list of practices which are compliant or non-compliant for the quarter.
 
 It is the individual Business Partner (staff member) for each practice who is responsible for following up with non-compliant practices to identify the issues and to ensure data is shared by the practice in the quarter.
 
