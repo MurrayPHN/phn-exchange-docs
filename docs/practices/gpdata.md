@@ -44,4 +44,4 @@ Configuration for the GP data extraction is found within the admin page. It show
 
 The PHN Exchange sends a database query to the PHN’s GP data and calculates the number of patients for a practice. This number is sent back to the PHN Exchange. When a practice logs into their GP data report, the number is used to generate the graph.
 
-![GP data source details](/resources/images/gp-datasource.png)
+![GP data source details](img/gp-datasource.png)
