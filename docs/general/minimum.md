@@ -33,7 +33,7 @@ The ABS Atlas is a mapping system linked live to the Australian Bureau of Statis
 - the ABS atlas automatically displays the latest information available
 - information is available by region, PHN, LGA SA1/2/3 as ABS statistical areas 
 
-PHN Exchange developer staff will assist in automating as many data feeds as possible. However in many cases, the external custodians  of these data sets do not provide interfaces allowing automation.  Currently in Victoria is is possible to automatically update information for mthe Victorian Health Information Surveillance System (VHISS)
+PHN Exchange developer staff will assist in automating as many data feeds as possible. However in many cases, the external custodians  of these data sets do not provide interfaces allowing automation.  Currently in Victoria is is possible to automatically update information for mthe Victorian Health Information Surveillance System (VHISS).
 
 
 # Minimum Requirements
