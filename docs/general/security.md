@@ -6,7 +6,7 @@ All data is access controlled through user accounts. Each account is associated 
 
 ### Microsoft 
 
-PHN Exchange users may decide to use their Microsoft account for restricted site access. This allows users to to manage their password and authentication through Microsoft, bypassing any requirements to create a separate password for the PHN Exchange. 
+PHN Exchange users may decide to use their Microsoft account for restricted site access. This allows users to manage their password and authentication through Microsoft, bypassing any requirements to create a separate password for the PHN Exchange. 
 
 ### Single Session
 
