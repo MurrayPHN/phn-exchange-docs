@@ -2,16 +2,16 @@
 
 All links in PHN Exchange resources will take you to external publicly available data sources. 
 
-Many of these sources have been used in the compiling of the Hot spotting and mapping data for your PHN.
+Many of these sources have been used in the compiling of the Hot Spotting and Mapping data for your PHN.
 
-If you come across other external sites you believe would be useful to be included please inform your manager. 
+If you come across other external sites you believe would be useful to be included, please inform your Manager. 
 
 To review the current resources page [CLICK HERE](https://www.phnexchange.com.au/resources.php).
 
 ## Training Resources
 
 - [Introduction to PHN Exchange](https://youtu.be/uHfd5ScNO2c) 11min 20 secs
-- [Brief into to the system](https://youtu.be/8t4rDUEc3Jg) 1min 16 secs
+- [Brief intro to the system](https://youtu.be/8t4rDUEc3Jg) 1min 16 secs
 - [GP Engagement GP profile](https://youtu.be/P8YCFshdRaY) 4 min 38 secs
 - [GP Engagement Hot spotting](https://youtu.be/Cd9cfggO4zE) 2min 30 secs
 - [GP Engagement PHN Exchange resources](https://youtu.be/RiHFNH5BCrk) 59 secs
