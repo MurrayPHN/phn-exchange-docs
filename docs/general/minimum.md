@@ -14,7 +14,7 @@ PHN Exchange staff will assist you to configure and populate data into PHN Excha
 
 # Each PHN governs their own data and information
 For  the components your PHN has licensed, 
-Your nominated staff are provided with administration access for your PHN, this give you total control to
+your nominated staff are provided with administration access for your PHN, this gives you total control to
 
 - manage the connection of the PHN Exchange to your general practice extracted data base
 - input and manage your own specific data where required
