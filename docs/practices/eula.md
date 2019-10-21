@@ -1,26 +1,25 @@
 # EULA capture
-The PHN exchange has an incorporated document acceptance system. 
-The PenCS EULA published by Murray PHN (July 2019) is shown in Appendix E
-It allows each PHN to manage their individual documents (EULA T&A Consent).
-Example… when a GP practice logs in to view their GP data report they will be asked to complete some details about their practice and also to accept terms and condition presented to them by their PHN. Below are listed step by step instructions for practices to access their T& A and EULA agreements
 
-1.	Go to https://www.phnexchange.com.au/home.php?phn=205
-2.	From the left side menu under the Account heading select Sign In
+The PHN Exchange has an incorporated document acceptance system. 
+The PenCS EULA published by Murray PHN (July 2019) is shown in Appendix E. It allows each PHN to manage their individual documents (EULA T&A Consent). For example, when a General Practice logs in to view their GP Data Report, they will be asked to complete some details about their practice and also to accept Terms and Condition presented to them by their PHN. Below are listed step by step instructions for practices to access their T & A and EULA agreements.
+
+1.	Go to https://www.phnexchange.com.au/home.php?phn=205.
+2.	From the left side menu under the Account heading select Sign In.
 3.	In the popup click "SIGN IN WITH MICROSOFT" or enter your details into the "Sign up with new email" section.
-4.	If you have"Sign up with new email", you need to confirm your account by clicking a link in an email sent to you.
-5.	After login check if there is a section named "General Practice" on the left menu, if there is not contact support (Thomas Heffernan)
-6.	From the left side menu, under the General Practice heading select GP Data Report and then select your practice.
-7.	After choosing a practice the Terms of Use will pop up, review these and then select Accept.
-8.	From the left side menu, under the General Practice heading select GP License Agreements and then select your practice.
-9.	Your pending licences will display, click on "PenCS EULA".
-10.	The End User License Agreement will open, review content and select Agree.
-The following video is also available for practices 
-Here is a [link](https://youtu.be/WmfFKL_SBCA) on instructions for the EULA: https://youtu.be/WmfFKL_SBCA
+4.	If you have "Sign up with new email", you need to confirm your account by clicking a link in an email sent to you.
+5.	After login, check if there is a section named "General Practice" on the left menu. If there is not, contact support (Thomas Heffernan).
+6.	From the left side menu under the General Practice heading, select GP Data Report and then select your practice.
+7.	After choosing a practice, the Terms of Use will pop up. Review these and then select Accept.
+8.	From the left side menu under the General Practice heading, select GP License Agreements and then select your practice.
+9.	Your pending licences will display; click on "PenCS EULA".
+10.	The End User License Agreement will open; review content and select Agree.
+The following video is also available for practices. 
+Here is a [link](https://youtu.be/WmfFKL_SBCA) on instructions for the EULA: https://youtu.be/WmfFKL_SBCA.
 
 ## Example EULA
 
-End User License Agreement example 
-Published by Murray PHN July 2019
+End User License Agreement example. Published by Murray PHN July 2019.
+
 END USER LICENCE AGREEMENT FOR USE OF PEN CS SOFTWARE (CAT4, SCHEDULER, TOPBAR, PATCAT)
  
 Schedule B - Agreed Terms
@@ -33,7 +32,7 @@ B1.1 For the purpose of this Agreement:
  
 ‘Business Day’ means a day that is not a Saturday, Sunday or any other day which is a public holiday or a bank holiday in the place where an act is to be performed.
  
-‘Confidential Information’ means information that is confidential by its nature, whether or not it is clearly labelled as such. It includes the technology, systems, tools and methodologies of the Software (including any database schemers, programs and program modules, routines and sub routines, procedures, algorithms, design concepts, design specifications (design notes, annotations, documentation, flow charts, coding sheets and the like), source code, object code and load modules, programming, program patches and system designs), information about a party’s business affairs, financial affairs, Documentation, business plans, price lists, strategies, technical operations, Intellectual Property Rights and financial position.
+‘Confidential Information’ means information that is confidential by its nature, whether or not it is clearly labelled as such. It includes the technology, systems, tools and methodologies of the Software (including any database schemers, programs and program modules, routines and sub routines, procedures, algorithms, design concepts, design specifications {design notes, annotations, documentation, flow charts, coding sheets and the like}, source code, object code and load modules, programming, program patches and system designs), information about a party’s business affairs, financial affairs, Documentation, business plans, price lists, strategies, technical operations, Intellectual Property Rights and financial position.
  
 ‘Documentation' means CAT Plus user guides and includes any PCS marketing materials and other documents provided by PCS with respect to the Software.
  
@@ -115,9 +114,9 @@ B6.1 Murray PHN will provide the following support services to the End User:
  
 (a) assistance with End User Data extraction;
  
-(b) support to assist the End User to fully utilise the Software, to the extent reasonably required by
- 
-the End User; and
+(b) support to assist the End User to fully utilise the Software, to the extent reasonably required by the End User; 
+
+and
  
 (c) collaborate with PCS to provide further support services in accordance with the Software Distribution Agreement.
  
@@ -133,7 +132,7 @@ B7.1 The End User must not permit any person or entity to use the Software (whet
  
 B7.2 The End User must not permit any person or entity to use the Software who is in the business of supplying software competitive with the Software.
  
-B7.3 The End User must not share any user account or any authentication details with any other person, and must take reasonable steps to ensure the security of it computer system, the Software, and the End User Data.
+B7.3 The End User must not share any user account or any authentication details with any other person, and must take reasonable steps to ensure the security of its computer system, the Software, and the End User Data.
  
 B7.4 The End User is responsible for all acts and omissions of its employees and contractors and any act or omission of an employee or contractor of the End User shall, as between the End User and PCS, and as between the End User and Murray PHN, constitute an act or omission of the End User.
  
