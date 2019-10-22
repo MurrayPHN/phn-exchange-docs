@@ -5,7 +5,7 @@ Primary Health Networks (PHNs) work directly with general practices to develop a
 PHNs are required to aggregate and control collection, use, access, privacy and security of data at the regional (PHN) level. This term applies to the PIP QI data set and all other data that general practices have approved to be collected.
 PHNs should review the relevant Data governance frameworks published by the Department
 
-# The relationship between PHNs and general pracitce
+# The relationship between PHNs and general practice
 It is recommended that PHNs Ensure Practices 
 - clearly understand the scope of the data shared with the PHN; 
 - practices clearly understand their obligations to ensure the information contained in their practice data is current and accurate; 
