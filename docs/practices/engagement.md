@@ -24,7 +24,7 @@ Subject to your PHNs legal advice, the following clauses should be considered fo
 - All Data collected will be de-identified and aggregated and We will take all reasonable and necessary steps to ensure that individual patients and general practitioners will not be identifiable to any external party (including to Your PHN). We will never share the names of practices, providers or individuals with any third party without consent from Your practice  
 
 # PHN data sharing
-PHNs often receive external requests from third parties to access data under its governance
+PHNs often receive external requests from third parties to access data under its governance.
 Subject to your PHNs legal advice, the following check list may be considered for inclusion in your internal documentation
  
 Information required from the external requestor to access data under the PHNs governance to make an appropriate assessment of the request will include   
