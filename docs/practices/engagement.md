@@ -7,36 +7,36 @@ PHNs should review the relevant Data governance frameworks published by the Depa
 
 # The relationship between PHNs and general practice
 It is recommended that PHNs Ensure Practices.
-- clearly understand the scope of the data shared with the PHN; 
-- practices clearly understand their obligations to ensure the information contained in their practice data is current and accurate; 
+* clearly understand the scope of the data shared with the PHN; 
+* practices clearly understand their obligations to ensure the information contained in their practice data is current and accurate; 
 
 # PHN use of the data
 
 Subject to your PHNs legal advice, the following clauses should be considered for inclusion in your data sharing agreement and internal documentation.
-- PHN may access de-identified data for research to help deliver insights on health trends and improvements in population health; 
-- Data sets will not be linked to other data sets if such linkage could reasonably result in the re-identification of data. 
-- No data will be shared if the data is able to be made identifiable and/or if there are less than 5 individual data sets for an area equivalent to an SA2 (ABS definition)  
-- Sharing any data under the custodianship of the PHN must be undertaken with due diligence and in accordance with PHN Policy, Privacy Legislation, and the PIP QI Governance Framework.
-- We take all reasonable steps to protect the privacy of Your Personal Information in accordance with Our statutory obligations under the Privacy Act 1988 (Cth) and other applicable Laws dealing with the protection of Personal Information. 
-- We will store all Data extracted from Your practice management system in a secure data warehouse located in Australia.               
-- In particular, We will comply with Our privacy policy, which You can review and access at the following link: Click Here               
-- Without limiting Our privacy policy, We will not use the Data extracted from Your practice management system by Your PHN for any commercial or financial gain. 
-- All Data collected will be de-identified and aggregated and We will take all reasonable and necessary steps to ensure that individual patients and general practitioners will not be identifiable to any external party (including to Your PHN). We will never share the names of practices, providers or individuals with any third party without consent from Your practice  
+* PHN may access de-identified data for research to help deliver insights on health trends and improvements in population health; 
+* Data sets will not be linked to other data sets if such linkage could reasonably result in the re-identification of data. 
+* No data will be shared if the data is able to be made identifiable and/or if there are less than 5 individual data sets for an area equivalent to an SA2 (ABS definition)  
+* Sharing any data under the custodianship of the PHN must be undertaken with due diligence and in accordance with PHN Policy, Privacy Legislation, and the PIP QI Governance Framework.
+* We take all reasonable steps to protect the privacy of Your Personal Information in accordance with Our statutory obligations under the Privacy Act 1988 (Cth) and other applicable Laws dealing with the protection of Personal Information. 
+* We will store all Data extracted from Your practice management system in a secure data warehouse located in Australia.               
+* In particular, We will comply with Our privacy policy, which You can review and access at the following link: Click Here               
+* Without limiting Our privacy policy, We will not use the Data extracted from Your practice management system by Your PHN for any commercial or financial gain. 
+* All Data collected will be de-identified and aggregated and We will take all reasonable and necessary steps to ensure that individual patients and general practitioners will not be identifiable to any external party (including to Your PHN). We will never share the names of practices, providers or individuals with any third party without consent from Your practice  
 
 # PHN data sharing
 PHNs often receive external requests from third parties to access data under its governance.
 Subject to your PHNs legal advice, the following check list may be considered for inclusion in your internal documentation
  
 Information required from the external requestor to access data under the PHNs governance to make an appropriate assessment of the request will include   
-- Project title and objectives  
-- Data elements 
-- How the data will support the project objectives  
-- How the project will support population health improvement  
-- The project group membership  
-- How the data will be distributed within the project group membership  
-- How the data will be published at the end of the project  
-- If formal ethical approval has been granted by a formal body aligned with the NHMRC – a copy of the ethics approval to be obtained prior to the decision being made 
-- Signature of the requesting person is to include an agreement not to use any data provided to denigrate a general practice 
+* Project title and objectives  
+* Data elements 
+* How the data will support the project objectives  
+* How the project will support population health improvement  
+* The project group membership  
+* How the data will be distributed within the project group membership  
+* How the data will be published at the end of the project  
+* If formal ethical approval has been granted by a formal body aligned with the NHMRC – a copy of the ethics approval to be obtained prior to the decision being made 
+* Signature of the requesting person is to include an agreement not to use any data provided to denigrate a general practice 
 
 
 # Using the PHN Exchange for practice engagement
@@ -54,10 +54,10 @@ There are four sections:
 
 Write your name and date, the practice name, address and local government area in which the practice is located.
 
-- Name
-- Address
-- Local Government Area (LGA)
-- Key Contacts and their position
+* Name
+* Address
+* Local Government Area (LGA)
+* Key Contacts and their position
 
 ## Pre engagement planning – Key characteristics
 
