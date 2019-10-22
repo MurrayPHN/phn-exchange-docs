@@ -12,7 +12,7 @@ PHN Exchange staff will assist you to configure and populate data into PHN Excha
 - Direct telephone support will be provided to key administrators  PHN developers and systems support staff 
 - Short ‘how to’ videos for your administrative staff to configure and manage data inputs into PHN Exchange
 
-# Each PHN governs their own data and information
+# Each PHN governs it's own data and information
 For  the components your PHN has licensed, 
 your nominated staff are provided with administration access for your PHN, this gives you total control to
 
