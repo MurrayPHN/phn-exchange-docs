@@ -12,7 +12,7 @@ Most importantly, common dialogue is initiated for shared understandings and str
  
 Originally conceived and developed by Murray PHN for its own use, the inherent potential in the design and functionality of the platform was quickly identified and shared with other early adopting PHNs. Evolving in scale and depth to soon include the mapping of these other PHN areas, PHN Exchange is now poised with the capacity and scalability to become the primary population health service planning platform for the sector across Australia.  
   
-For a brief introduction please see this video (1min 16 secs) [CLICK HERE](https://www.youtube.com/watch?v=uHfd5ScNO2c&feature=youtu.be), or paste the following into your browser search field https://www.youtube.com/watch?v=uHfd5ScNO2c&feature=youtu.be.
+For a brief introduction please see this video (11min 20 secs) [CLICK HERE](https://www.youtube.com/watch?v=uHfd5ScNO2c&feature=youtu.be), or paste the following into your browser search field https://www.youtube.com/watch?v=uHfd5ScNO2c&feature=youtu.be.
 
 # Introduction to this documentation
 
