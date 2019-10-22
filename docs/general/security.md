@@ -16,12 +16,12 @@ A user can only be logged into the PHN Exchange from one location at a time. Whe
 
 * Data is de-identified at it's source;
 * Data is de-identified and extracted only if there are 5+ sets for a measure for a statistical area;
-* Data is transmitted through secure connections to the database under the custodianship of the PHN. As an example, Murray PHN manages its de-identified general practice data in the Microsoft Azure environment and complies with Australian Privacy principles;
+* Data is transmitted through secure connections to the database under the custodianship of the PHN. As an example, PHN Exchange   manages aggregated de-identified general practice data in the Microsoft Azure environment and complies with Australian Privacy principles;
 * Access to the database is permissioned and available to minimal key staff; 
 * Reporting back to the Practice is automatically managed through the PHN Exchange; 
 * Practice data within the GP Data Report for a practice is only available to that practice through secure login on the web platform;
 * PHN Exchange Aggregate figures are used to provide benchmarking for the practice;
-* As an example, Murray PHN completed an independent Data Governance and Cyber Security review and has engaged a specialist to undertake penetration testing and analysis on an annual basis. From that review, the PHN has generated policies and guidelines for data management that includes actions in the event of a suspected data breach.
+* Murray PHN completed an independent Data Governance and Cyber Security review and has engaged a specialist to undertake penetration testing and analysis on an annual basis. From that review, the PHN has generated policies and guidelines for data management that includes actions in the event of a suspected data breach.
 
 ## Data Agreements
 
