@@ -11,7 +11,6 @@ To review the current resources page [CLICK HERE](https://www.phnexchange.com.au
 ## Training Resources
 
 - [Introduction to PHN Exchange](https://youtu.be/uHfd5ScNO2c) 11min 20 secs
-- [Brief intro to the system](https://youtu.be/8t4rDUEc3Jg) 1min 16 secs
 - [GP Engagement GP profile](https://youtu.be/P8YCFshdRaY) 4 min 38 secs
 - [GP Engagement Hot spotting](https://youtu.be/Cd9cfggO4zE) 2min 30 secs
 - [GP Engagement PHN Exchange resources](https://youtu.be/RiHFNH5BCrk) 59 secs
