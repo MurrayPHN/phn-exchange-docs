@@ -1,7 +1,12 @@
-# EULA capture
+# Document acceptance system (EULA capture)
 
-The PHN Exchange has an incorporated document acceptance system. 
-The PenCS EULA published by Murray PHN (July 2019) is shown in Appendix E. It allows each PHN to manage their individual documents (EULA T&A Consent). For example, when a General Practice logs in to view their GP Data Report, they will be asked to complete some details about their practice and also to accept Terms and Condition presented to them by their PHN. Below are listed step by step instructions for practices to access their T & A and EULA agreements.
+The PHN Exchange has an incorporated document acceptance system. It allows each PHN to manage their individual documents (EULA T&A Consent). Each PHN using the PHN Exchange can manage presentation of thier documentation to a practice via the PHN Exchange. 
+If a PHN updates its data sharing conditions, it is able , through this system, to present the document to the practice the next time the practice logs into the PHN Exchange. Acceptance of the document by the practice is logged in the PHN Exchange.
+
+# PHN Exchange Terms and conditions
+Please note that users of the PHN Exchange are also requested to accept terms and conditions of use of the PHN Exchange on the first three logins by the user.
+
+Below are listed step by step instructions for practices to access their T & A and EULA agreements. 
 
 1.	Go to https://www.phnexchange.com.au/home.php?phn=205.
 2.	From the left side menu under the Account heading select Sign In.
