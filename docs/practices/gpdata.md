@@ -30,7 +30,7 @@ This automated process saves a practice significant time in producing reports an
 
 A unique feature of the GP Data Report is its ability to benchmark shared data. Each practice views their own data and averages calculated from all data sharing practices. This enables the practice to assess their performance against their peers. 
 
-Of course, all practice specific data is only viewable by the practice sharing its data. Please see Example 1 below for an explanation  of benchmarking
+Of course, all practice specific data is only viewable by the practice sharing its data. Please see below for an explanation  of benchmarking
 
 ## Example 1
 
