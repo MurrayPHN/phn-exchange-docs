@@ -13,6 +13,7 @@ It is recommended that PHNs Ensure Practices.
 # PHN use of the data
 
 Subject to your PHNs legal advice, the following clauses should be considered for inclusion in your data sharing agreement and internal documentation.
+
 * PHN may access de-identified data for research to help deliver insights on health trends and improvements in population health; 
 * Data sets will not be linked to other data sets if such linkage could reasonably result in the re-identification of data. 
 * No data will be shared if the data is able to be made identifiable and/or if there are less than 5 individual data sets for an area equivalent to an SA2 (ABS definition)  
