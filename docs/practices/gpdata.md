@@ -26,6 +26,8 @@ The dashboard reports display constant 15-month trends and are updated monthly.
 
 This automated process saves a practice significant time in producing reports and can also be used as evidence of data monitoring and quality improvement activities for accreditation.
 
+![GP profile form](../../img/pip1.png)
+
 ### Benchmarking
 
 A unique feature of the GP Data Report is its ability to benchmark shared data. Each practice views their own data and averages calculated from all data sharing practices. This enables the practice to assess their performance against their peers. 
