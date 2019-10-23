@@ -26,6 +26,12 @@ The dashboard reports display constant 15-month trends and are updated monthly.
 
 This automated process saves a practice significant time in producing reports and can also be used as evidence of data monitoring and quality improvement activities for accreditation.
 
+### Benchmarking
+
+A unique feature of the GP Data Report is its ability to benchmark shared data. Each practice views their own data and averages calculated from all data sharing practices. This enables the practice to assess their performance against their peers. 
+
+Of course, all practice specific data is only viewable by the practice sharing its data. Please review the PIP QI measures video linked in the above section to review the benchmarking line. PHN Exchange is developing benchmarking across data extraction software.
+
 ## Example 1
 
 The chart below displays one of the  PIP QI measures for a practice.
@@ -40,11 +46,7 @@ or prescribed one or more certain medications. We can also see that only 142 pat
 
 ![GP profile form](../../img/PIP2.PNG)
 
-### Benchmarking
 
-A unique feature of the GP Data Report is its ability to benchmark shared data. Each practice views their own data and averages calculated from all data sharing practices. This enables the practice to assess their performance against their peers. 
-
-Of course, all practice specific data is only viewable by the practice sharing its data. Please review the PIP QI measures video linked in the above section to review the benchmarking line. PHN Exchange is developing benchmarking across data extraction software.
 
 ### Validating
 
