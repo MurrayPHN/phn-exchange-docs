@@ -35,7 +35,7 @@ In this case there is a view of the last 15 months and this chart shows that as 
 
 ## Example 2
 
-In this example, in October 2019, the practice has 516 patients are active patients and are diagnosed with a mental health condition
+In this example, as of October 2019, the practice has 516 active patients diagnosed with a mental health condition
 or prescribed one or more certain medications. We can also see that only 142 patients have a Mental Health Treatment Plan recorded and only 21 have Mental Health Treatment Plan reviews 
 
 ![GP profile form](../../img/PIP2.PNG)
