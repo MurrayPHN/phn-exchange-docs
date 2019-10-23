@@ -7,8 +7,8 @@ PHNs should review the relevant data governance frameworks published by the Depa
 
 # The relationship between PHNs and general practice
 It is recommended that PHNs Ensure Practices.
--clearly understand the scope of the data shared with the PHN; 
--practices clearly understand their obligations to ensure the information contained in their practice data is current and accurate; 
+- clearly understand the scope of the data shared with the PHN; 
+- practices clearly understand their obligations to ensure the information contained in their practice data is current and accurate; 
 
 # PHN use of the data
 
