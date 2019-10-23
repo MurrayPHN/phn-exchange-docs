@@ -26,7 +26,16 @@ The dashboard reports display constant 15-month trends and are updated monthly.
 
 This automated process saves a practice significant time in producing reports and can also be used as evidence of data monitoring and quality improvement activities for accreditation.
 
+## Example 1
+
+The chart below displays one of the  PIP QI measures for a practice.
+In this case there is a view of the last 15 months and this chart shows that as of October 2019, the practice has recorded an alcohol status for 66% of its patients. This is compared to the benchmark average of all data sharing practices of 42%
+
 ![GP profile form](../../img/PIP1.PNG)
+
+## Example 2
+
+![GP profile form](../../img/PIP2.PNG)
 
 ### Benchmarking
 
