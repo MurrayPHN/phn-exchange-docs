@@ -26,7 +26,7 @@ The dashboard reports display constant 15-month trends and are updated monthly.
 
 This automated process saves a practice significant time in producing reports and can also be used as evidence of data monitoring and quality improvement activities for accreditation.
 
-![GP data report ](../../img/PIP1.PNG)
+![GP data report ] (../../img/PIP1.PNG)
 
 ### Benchmarking
 
