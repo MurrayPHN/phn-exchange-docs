@@ -56,8 +56,8 @@ GP Engagement Validating the GP data report (2 min 11 secs) [CLICK HERE](https:/
 
 Configuration for the GP data extraction is found within the Admin page. It shows the individual connection details between the PHN Exchange and your PHN's GP Data source (The database of extracted and de-identified GP Data, held by and under the custodianship of your PHN). Only designated people within the PHN should modify or edit this section.
 
-*Note that the PHN Exchange does not use individual lines of data but rather aggregates numbers within the PHN's database and sends the aggregates back to the PHN Exchange for visualisations to the GP Practice. An example would be for number of patients in a practice.*
+*Note that the PHN Exchange does not use individual lines of data but rather aggregates numbers within the PHN's database and sends the aggregates back to the PHN Exchange for visualisations to the GP Practice.*
 
-The PHN Exchange sends a database query to the PHN’s GP data and calculates the number of patients for a practice. This number is sent back to the PHN Exchange. When a practice logs into their GP Data Report, the number is used to generate the graph.
+The PHN Exchange sends a database query to the PHN’s GP data and calculates the number of patients for a practice on the PHNs data base. This number is sent back to the PHN Exchange. When a practice logs into their GP Data Report, the number is used to generate the graph.
 
 ![GP data source details](../../img/gp-datasource.png)
