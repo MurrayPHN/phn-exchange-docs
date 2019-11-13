@@ -2,8 +2,9 @@
 
  https://phn-exchange.readthedocs.io/en/latest/ 
  
-## Quick Start
+## How to edit
 
-- Install Python latest https://www.python.org/
-- `pip install mkdocs`
-- `mkdocs serve`
+1. Create/update your MD files
+2. Update the mkdocs.yml file (this is what defines the side menu)
+3. Push your changes to the repository
+4. The live site will update within 5 minutes after push
