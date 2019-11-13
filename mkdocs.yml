@@ -23,7 +23,6 @@ nav:
     - Data Extraction: 'practices/extraction.md'
 - Components: 
     - ABS Atlas: 'components/atlas.md'
-    - Customer Relationship Management: 'components/crm.md'
     - Learning Management System: 'components/lms.md'
     - Population Health: 'components/populationhealth.md'
     - Priority Areas: 'components/priority.md'
@@ -32,6 +31,11 @@ nav:
     - Members: 'user-guides/members.md'
     - Practice Members: 'user-guides/practice-members.md'
     - PHN Admins: 'user-guides/phn-admins.md'
+- PHN in a Box:
+    - Overview: 'phn-in-a-box/overview.md'
+    - Overview: 'phn-in-a-box/components.md'
+    - Overview: 'phn-in-a-box/activity-tracking.md'
+    - Overview: 'phn-in-a-box/extra-features.md'
 - Versioning: 'versioning.md'
 
 markdown_extensions:
