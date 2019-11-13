@@ -33,9 +33,9 @@ nav:
     - PHN Admins: 'user-guides/phn-admins.md'
 - PHN in a Box:
     - Overview: 'phn-in-a-box/overview.md'
-    - Overview: 'phn-in-a-box/components.md'
-    - Overview: 'phn-in-a-box/activity-tracking.md'
-    - Overview: 'phn-in-a-box/extra-features.md'
+    - Components: 'phn-in-a-box/components.md'
+    - Activity Tracking: 'phn-in-a-box/activity-tracking.md'
+    - Extra Features: 'phn-in-a-box/extra-features.md'
 - Versioning: 'versioning.md'
 
 markdown_extensions:
