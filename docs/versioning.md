@@ -11,7 +11,7 @@
 - **PHN specific practice resources**
 
 <p>
-    The ability for PHN's to define resources bispoke to their own practices. Accesed from the GP Hub.
+    The ability for PHN's to define resources to show their own practices, accessed from the GP Hub.
 </p>
 
 ## **Version 3**
