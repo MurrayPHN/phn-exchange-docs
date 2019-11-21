@@ -80,7 +80,7 @@
 - **Help Center**
 
 <p>
-    The Help Center is this website, a repository of information about the PHN Exchange.
+    The Help Center is a website repository of information about the PHN Exchange and PHN in a Box.
 </p>
 
 - **Security Upgrades**
