@@ -1,6 +1,6 @@
 # PHN Exchange Overview
 
-PHN Exchange is an innovative population health knowledge managment system that’s designed to support, influence and improve health outcomes.  
+PHN Exchange is an innovative population health knowledge management system that’s designed to support, influence and improve health outcomes.  
  
 Gathering data from multiple sources, PHN Exchange presents a customisable view for PHN staff, health planners, and health providers to use in a multitude of ways to better inform decision making. 
  
