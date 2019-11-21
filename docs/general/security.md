@@ -31,5 +31,5 @@ The privacy and data protection requirements exist in contractual arrangements, 
 * PHN staff need to sign Codes of Conduct and Privacy agreements on commencement of employment;
 * Each PHN complies with the Departmental PIP QI data governance documented by the Department;
 * Each PHN complies with the Departmental PIP QI data agreements;
-* Each PHN should have their own data sharing and use agreement with each of their practices;
+* Each PHN should have their own data sharing and user agreement with each of their practices;
 * Each PHN should use End User License Agreements between the practice, the extraction software vendor and the PHN.
