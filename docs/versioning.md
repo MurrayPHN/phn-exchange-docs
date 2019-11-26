@@ -52,6 +52,12 @@
     A centralized dashboard of all the features a practice will need to access.
 </p>
 
+- **Priority Area**
+
+<p>
+    Priority Area links to ABS Statistics for each LGA.
+</p>
+
 - **Practice specific licenses**
 
 <p>
