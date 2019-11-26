@@ -38,6 +38,12 @@
     Graphs for a PHN to review of averaged indicators of practices and the ability to contrast averaged results between practice categories.
 </p>
 
+- **Data Report Printing**
+
+<p>
+    The ability to print graph reports.
+</p>
+
 ## **Version 3**
 
 **Status:** In Development
