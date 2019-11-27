@@ -8,6 +8,7 @@
 Partner PHNs are invited to review and test new versions prior to release and publishing on the live site.
 
 Each partner PHN will;
+
 - be notified when a new version is available for testing
 - be provided access to the test site
 - have 5 working days to complete their testing and provide feedback
