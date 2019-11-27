@@ -1,14 +1,20 @@
 # PHN Exchange - Version Log
-## **Release Process**
+
 <p>
-    Each version of PHN Exchange will go through a three-step release process:
-    - The new version of PHN Exchange will be made available for each PHN.
-      PHNs will be able to test the new release internally.
-      Any issues or concerns can be raised through !!!phnexchangesupport@murrayphn.org.au!!!
-    - Testing will close after five business days.
-      After testing has closed, the new version will be prepared for final release.
-    - PHN Exchange will be updated in the live environment.
+    Information about each new version of PHN Exchange, including feature upgrades and changes, is published in this section of the PHN     Exchange HelpCentre  
 </p>
+
+## **Release Process**
+
+Partner PHNs are invited to review and test new versions prior to release and publishing on the live site. 
+
+Each partner PHN will;
+- be notified when a new version is available for testing
+- be provided access to the test site
+- have 5 working days to complete their testing and provide feedback
+
+After the test period has ended, the new version will usually be released and published on the live site within two working days
+
 
 ## **Version 4**
 
