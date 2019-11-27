@@ -6,15 +6,14 @@
 
 ## **Release Process**
 
-Partner PHNs are invited to review and test new versions prior to release and publishing on the live site. 
-
-Each partner PHN will;
-- be notified when a new version is available for testing
-- be provided access to the test site
-- have 5 working days to complete their testing and provide feedback
-
-After the test period has ended, the new version will usually be released and published on the live site within two working days
-
+<p>
+    Partner PHNs are invited to review and test new versions prior to release and publishing on the live site.
+    <br>Each partner PHN will;
+    - be notified when a new version is available for testing
+    - be provided access to the test site
+    - have 5 working days to complete their testing and provide feedback
+    <br>After the test period has ended, the new version will usually be released and published on the live site within two working days
+</p>
 
 ## **Version 4**
 
@@ -71,6 +70,12 @@ After the test period has ended, the new version will usually be released and pu
 **Expected Publish Date:** Tuesday the 11th of December
 
 **Features:**
+
+- **Home**
+
+<p>
+    Resources card now links to the Australian Institute of Health and Welfare page for each PHN.
+</p>
 
 - **GP Hub**
 
