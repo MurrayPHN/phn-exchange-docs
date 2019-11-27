@@ -12,6 +12,7 @@ Each partner PHN will;
 - be notified when a new version is available for testing
 - be provided access to the test site
 - have 5 working days to complete their testing and provide feedback
+- be able to send feedback via support@phnexchange.com.au
 
 After the test period has ended, the new version will usually be released and published on the live site within two working days
 
