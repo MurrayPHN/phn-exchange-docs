@@ -2,6 +2,13 @@
 
  https://phn-exchange.readthedocs.io/en/latest/ 
  
+
+## how to install
+
+download python
+`pip install mkdocs`
+see live preview: `mkdocs serve`
+
 ## How to edit
 
 1. Create/update your MD files
