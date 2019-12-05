@@ -66,16 +66,16 @@ After the test period has ended, the new version will usually be released and pu
 
 **Available in Test Environment:** Thursday the 5th of December
 
-**Close of Testing:** Tuesday the 10th of December
+**Close of Testing:** Wednesday the 11th of December
 
-**Expected Publish Date:** Wednesday the 11th of December
+**Expected Publish Date:** Thursday the 12th of December
 
 **Features:**
 
 - **Home**
 
 <p>
-    Resources card now links to the Australian Institute of Health and Welfare dashboard for each PHN.
+    Resources on the hompage for each PHN now link to the Australian Institute of Health and Welfare dashboard.
 </p>
 
 - **GP Hub**
@@ -87,7 +87,7 @@ After the test period has ended, the new version will usually be released and pu
 - **Priority Area**
 
 <p>
-    Priority Area links to ABS Statistics for each LGA, by clicking on the LGA name.
+    In priority areas, the names of local government areas's now link to an ABS Statistics website.
 </p>
 
 - **Practice specific licenses**
