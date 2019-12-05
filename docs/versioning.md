@@ -64,11 +64,11 @@ After the test period has ended, the new version will usually be released and pu
 
 **Status:** In Development
 
-**Available in Test Environment:** Monday the 2nd of December
+**Available in Test Environment:** Thursday the 5th of December
 
-**Close of Testing:** Friday the 6th of December
+**Close of Testing:** Tuesday the 10th of December
 
-**Expected Publish Date:** Tuesday the 11th of December
+**Expected Publish Date:** Wednesday the 11th of December
 
 **Features:**
 
@@ -87,7 +87,7 @@ After the test period has ended, the new version will usually be released and pu
 - **Priority Area**
 
 <p>
-    Priority Area links to ABS Statistics for each LGA.
+    Priority Area links to ABS Statistics for each LGA, by clicking on the LGA name.
 </p>
 
 - **Practice specific licenses**
