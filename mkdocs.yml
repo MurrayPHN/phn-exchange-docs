@@ -36,6 +36,7 @@ nav:
     - Components: 'phn-in-a-box/components.md'
     - Activity Tracking: 'phn-in-a-box/activity-tracking.md'
     - Extra Features: 'phn-in-a-box/extra-features.md'
+    - Changelog: 'phn-in-a-box/changelog.md'
 - Versioning: 'versioning.md'
 
 markdown_extensions:
