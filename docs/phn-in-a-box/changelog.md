@@ -3,6 +3,13 @@
 0.2.1.05
 
 - Added 'Marketing List' to site map (temp request by PHN)
+- Modified default view for 'Reports' to exclude the system-default reports created by Microsoft
+- Added some permissions to the Team Member security role
+- Made 'Accounts I own' the default view
+- Removed user-level 'delete' permission for Accounts from 'Team Member' role
+- 'Team Member' role can now delete Contacts
+- Added permission for users to 'pin' views to default (per-user)
+- Configured entities in the 'quick create' list
 
 0.2.1.04
 
