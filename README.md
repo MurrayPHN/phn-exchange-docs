@@ -25,3 +25,18 @@ see live preview: `mkdocs serve`
 Host docs website as www.help.phnexchange.com.au
 
 find a way to use the same box with a different service in the docker container
+
+https://www.mkdocs.org/
+https://github.com/squidfunk/mkdocs-material
+
+make dockerfile with latest python:
+
+apt-get update && upgrade
+
+`pip install mkdocs`
+
+`pip install mkdocs-material`
+
+see live preview: `mkdocs serve`
+
+install certbot & https on machine
