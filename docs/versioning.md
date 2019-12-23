@@ -1,22 +1,23 @@
 # PHN Exchange - Version Log
 
-<p>
-    Information about each new version of PHN Exchange, including feature upgrades and changes, is published in this section of the PHN     Exchange HelpCentre  
-</p>
+Information regarding each version of the PHN Exchange with a release timeline and new changes.
 
-## **Release Process**
+## Release Process
+
 Partner PHNs are invited to review and test new versions prior to release and publishing on the live site.
 
-Each partner PHN will;
+Each partner PHN will:
 
-- be notified when a new version is available for testing
-- be provided access to the test site
-- have 5 working days to complete their testing and provide feedback
-- be able to send feedback via support@phnexchange.com.au
+- Be notified when a new version is available for testing
+- Be provided access to the test site
+- Have 5 working days to complete their testing and provide feedback
+- Be able to send feedback via [support@phnexchange.com.au](mailto:support@phnexchange.com.au)
 
 After the test period has ended, the new version will usually be released and published on the live site within two working days
 
-## **Version 4**
+## Versions
+
+### **Version 4**
 
 **Status:** Planning
 
@@ -60,9 +61,9 @@ After the test period has ended, the new version will usually be released and pu
     The ability to print graph reports.
 </p>
 
-## **Version 3**
+### **Version 3**
 
-**Status:** In Development
+**Status:** Released
 
 **Available in Test Environment:** Thursday the 5th of December
 
