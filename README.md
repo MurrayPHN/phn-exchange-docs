@@ -22,6 +22,8 @@ see live preview: `mkdocs serve`
 
 ## The plan
 
+https://pages.github.com/
+
 Host docs website as www.help.phnexchange.com.au
 
 find a way to use the same box with a different service in the docker container
