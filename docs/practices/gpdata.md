@@ -47,7 +47,6 @@ or prescribed one or more certain medications. We can also see that only 142 pat
 ![GP profile form](../../img/PIP2.PNG)
 
 
-
 ### Validating
 
 GP Engagement Validating the GP data report (2 min 11 secs) [CLICK HERE](https://youtu.be/eWFtcGspuEY).
